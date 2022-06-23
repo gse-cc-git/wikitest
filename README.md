@@ -1,6 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # wikitest
 =======
+=======
+>>>>>>> afd735b (Commit with Git-Sync-JS)
 # Tiddlywiki-NodeJS-Github-Template
 
 Wiki template for [TiddlyGit-Desktop](https://github.com/tiddly-gittly/TiddlyGit-Desktop), an App that can generate template wiki on one-click.
@@ -32,4 +35,7 @@ Automatically.
 ## Credit
 
 Scripts are inspired by [DiamondYuan/wiki](https://github.com/DiamondYuan/wiki)
+<<<<<<< HEAD
 >>>>>>> 241ab32 (Commit with Git-Sync-JS)
+=======
+>>>>>>> afd735b (Commit with Git-Sync-JS)
